@@ -1,3 +1,3 @@
 # Python101
 A short tour of python for studying data structures and algorithms. 
-via Atil Samancioglu 
+via Atil Samancioglu.
